@@ -15,14 +15,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 
 2. **Navigate to the Project Directory**:
 
-  ```
-  cd my-next-app
-  ```
+   ```
+   cd my-next-app
+   ```
 
 3. **Run the Development Server**
 
-  ```
-  npm run dev
-  ```
+   ```
+   npm run dev
+   ```
 
 Open http://localhost:3000 in your browser to see your Next.js app running.
