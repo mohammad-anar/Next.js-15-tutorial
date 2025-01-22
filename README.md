@@ -13,6 +13,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
    npx create-next-app@latest my-next-app
    ```
 
+   Include everything that you want to use in your project.
+
 2. **Navigate to the Project Directory**:
 
    ```
